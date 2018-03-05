@@ -1,0 +1,20 @@
+{
+  "name": "design_editor",
+  "version": "1.0.0",
+  "description": "for injecting model name and validation directives into the design created using angular material",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "angularjs",
+    "angular_material",
+    "nodejs"
+  ],
+  "author": "Basant Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "nodemon": "^1.17.1"
+  }
+}
